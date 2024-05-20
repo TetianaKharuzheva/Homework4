@@ -6,5 +6,6 @@ public class CalculatorRunner {
         MyCalculator instansMyCalculatorTwo = new MyCalculator();
         instansMyCalculatorTwo.isGreater(4, 8);
         instansMyCalculatorTwo.percentageCalculator(100, 50);
+
     }
 }
